@@ -1,0 +1,78 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 737px;
+	min-height: 881.95px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 62px 111px 62.049999999999955px 112px;
+}
+
+#u665
+{
+	z-index: 2;
+	width: 737px;
+	height: 530px;
+	border-style: none;
+	border-color: transparent;
+	left: -1px;
+	position: relative;
+	background: #FFFFFF url("../images/tronco-u665-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1325-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-left: 153px;
+	margin-top: 95px;
+	position: relative;
+}
+
+#u1327-3
+{
+	z-index: 7;
+	display: block;
+	vertical-align: top;
+	margin-left: 153px;
+	margin-top: 95px;
+	position: relative;
+}
+
+#u1412-5
+{
+	z-index: 10;
+	margin-left: 672px;
+	margin-top: 79px;
+	position: relative;
+}
+
+#u1412-5_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,77 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 737px;
+	min-height: 375.95000000000005px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 62px 112px 62.049999999999955px 111px;
+}
+
+#u403
+{
+	z-index: 2;
+	width: 737px;
+	height: 530px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: #FFFFFF url("../images/edge%203-u403-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1252-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-left: 149px;
+	margin-top: 95px;
+	position: relative;
+}
+
+#u1254-3
+{
+	z-index: 7;
+	display: block;
+	vertical-align: top;
+	margin-left: 154px;
+	margin-top: 95px;
+	position: relative;
+}
+
+#u1404-5
+{
+	z-index: 10;
+	margin-left: 672px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u1404-5_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

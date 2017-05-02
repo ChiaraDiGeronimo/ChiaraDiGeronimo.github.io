@@ -1,0 +1,78 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 737px;
+	min-height: 850px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 62px 111px 62px 112px;
+}
+
+#u903
+{
+	z-index: 2;
+	width: 737px;
+	height: 530px;
+	border-style: none;
+	border-color: transparent;
+	left: -1px;
+	position: relative;
+	background: #FFFFFF url("../images/photo%20black%20and%20white-u903-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1388-8
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-left: 153px;
+	margin-top: 95px;
+	position: relative;
+}
+
+#u1390-3
+{
+	z-index: 11;
+	display: block;
+	vertical-align: top;
+	margin-left: 153px;
+	margin-top: 95px;
+	position: relative;
+}
+
+#u1419-5
+{
+	z-index: 14;
+	margin-left: 672px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u1419-5_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

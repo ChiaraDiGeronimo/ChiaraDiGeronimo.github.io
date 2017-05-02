@@ -1,0 +1,374 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 854px;
+	min-height: 550px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 77px 64px 63px 42px;
+}
+
+#pu69-4
+{
+	width: 0.01px;
+	margin-left: 89px;
+	position: relative;
+}
+
+#u69-4
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 101px;
+}
+
+#u71-4
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 58px;
+}
+
+#u72-4
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	margin-left: 350px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#pu79
+{
+	width: 0.01px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u79
+{
+	z-index: 14;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/square%201-u79-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u80
+{
+	z-index: 15;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 122px;
+	background: #FFFFFF url("../images/square%202-u80-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u82
+{
+	z-index: 16;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 244px;
+	background: #FFFFFF url("../images/square%203-u82-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u83
+{
+	z-index: 17;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 366px;
+	background: #FFFFFF url("../images/square%204-u83-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u84
+{
+	z-index: 18;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 488px;
+	background: #FFFFFF url("../images/square%205-u84-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u85
+{
+	z-index: 19;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 610px;
+	background: #FFFFFF url("../images/square%206-u85-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u86
+{
+	z-index: 20;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 732px;
+	background: #FFFFFF url("../images/square%207-u86-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u87
+{
+	z-index: 21;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/square%208-u87-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u88
+{
+	z-index: 22;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 122px;
+	background: #FFFFFF url("../images/square%209-u88-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u89
+{
+	z-index: 23;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 244px;
+	background: #FFFFFF url("../images/square%2010-u89-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u90
+{
+	z-index: 24;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 366px;
+	background: #FFFFFF url("../images/square%2011-u90-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u91
+{
+	z-index: 25;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 488px;
+	background: #FFFFFF url("../images/square%2012-u91-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u92
+{
+	z-index: 26;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 610px;
+	background: #FFFFFF url("../images/square%2013-u92-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u93
+{
+	z-index: 27;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 732px;
+	background: #FFFFFF url("../images/square%2014-u93-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#pu87,#pu94
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u94
+{
+	z-index: 28;
+	width: 121px;
+	height: 121px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/square%2015-u94-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u102
+{
+	z-index: 29;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 122px;
+	background: #FFFFFF url("../images/square%2016-u102-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u103
+{
+	z-index: 30;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 244px;
+	background: #FFFFFF url("../images/square%2017-u103-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u104
+{
+	z-index: 31;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 366px;
+	background: #FFFFFF url("../images/square%2018%20-%20-u104-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u105
+{
+	z-index: 32;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 488px;
+	background: #FFFFFF url("../images/square%2019-u105-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u106
+{
+	z-index: 33;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 610px;
+	background: #FFFFFF url("../images/square%2020-u106-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u107
+{
+	z-index: 34;
+	width: 122px;
+	height: 122px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 732px;
+	background: #FFFFFF url("../images/square%2021-u107-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 78px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
